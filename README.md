@@ -1,6 +1,6 @@
 # Riva_UFS06_B
 #Questo è l'esame di Marco Riva
-#ip: 172.28.146.36
+#ip: 172.16.151.113
 #Traccia D
 #Commands:
 #wine/red
